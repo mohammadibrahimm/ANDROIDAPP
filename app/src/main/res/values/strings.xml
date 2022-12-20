@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">gymapp</string>
+    <string name="Questions">
+      <br>
+
+         1. Start by standing with your feet shoulder-width apart and arms down at your sides.
+
+
+      </br>
+      <br>
+         2. Take a step forward with your right leg and bend your right knee as you do so
+
+      </br>
+      <br>
+         3. Push up off your right foot and return to the starting position. Repeat with your left leg. This is one rep.
+      </br>
+            <br>
+
+         4. Complete 3 sets of 10 reps.
+
+            </br>
+   </string>
+    <string name="title_activity_main3">mainActivity3</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
